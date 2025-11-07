@@ -1,0 +1,27 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    // Run "Organize Imports" on save
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    // Use built-in formatters
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
+}
